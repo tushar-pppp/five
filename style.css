@@ -1,0 +1,16 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.dis{
+    padding: 0px 30px;
+}
+.st:hover{
+    color: red;
+}
+
+.box,.box1{
+    width: 200px;
+    height: 200px;
+    border: 2px solid black;
+}
